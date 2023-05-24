@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "idf.adapterTargetName": "esp32s3"
+}
